@@ -1,0 +1,14 @@
+Persistence layer (I think) talking to Postgres DBeaver Database:
+1. Users can register/login
+2. Users can submit/view/edit reimbursements
+3. Can filter reimbursements by status, username, reimbursement_ID
+
+Through Postman:
+1. Users can register/login
+2. Can get a user by username
+3. Can create reimbursements
+4. Can get all reimbursements of "status"
+
+UI:
+1. Can Register new user that will get added into Database
+2. Can log in with previously created user
