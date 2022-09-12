@@ -9,18 +9,13 @@
 
 
 ## Executive Summary
-The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement. The reimbursement types should have the following options: LODGING, FOOD, TRAVEL
+The Expense Reimbursement System (ERS) manages the process of reimbursing employees for expenses incurred while on company time, such as travel, food and lodging. All employees in the company can login and submit requests for reimbursement, as well as view their past cikets and pending requests. Finance managers (admins) can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
 
 # Tech Stack
- - Java 8
- - Apache Maven
- - PostgreSQL
- - AWS RDS
- - Java Servlets
- - JDBC
- - HTML
- - CSS
- - JavaScript
+ - Java 8, Servlets, JDBC
+ - Apache Maven, Tomcat
+ - PostgreSQL, AWS RDS
+ - HTML5/CSS/JS
  - AJAX / Fetch API
 
 # Functional Requirements
