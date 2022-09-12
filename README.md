@@ -1,6 +1,6 @@
 # Project 1 - Employee Reimbursment System (ERS)
 
-## What I got done:
+## What's currently complete:
  - GET & POST methods functional within UserServlet & ReimbursementServlet
  - From the given UI skeleton, adapted to my project specifics and was able to get REGISTER & LOGIN pages to work and persist new registered users onto database tables
  - Through Postman, I could create reimbursements given username & amount plus default pending status and null resolver as well as get list of reimbursements by status
